@@ -115,6 +115,11 @@ To build a comprehensive Power BI dashboard that helps stakeholders in the healt
 * Helps in tracking **KPIs and business health in real-time**.
 
 ---
+## 📷 Snpashot
+
+This is how the dashboard looks like: -
+Example: ![Dashboard Preview](https://github.com/GithubSameep/Healthcare-Analysis/blob/main/Healthcare%20Analysis.png)
+
 
 ## 👨‍💻 Created By:
 
